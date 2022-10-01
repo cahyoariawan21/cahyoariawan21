@@ -31,7 +31,7 @@ Skills: VUE JS / GO / Figma
 [<img align="left" alt="html" width="22px" src="https://github.com/github/explore/blob/main/topics/html/html.png" />][html]
 [<img align="left" alt="css" width="22px" src="https://github.com/github/explore/blob/main/topics/css/css.png" />][css]
 [<img align="left" alt="js" width="22px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="github" width="22px" src="https://github.com/github/explore/blob/main/topics/github/github.png" />][github]
+[<img align="left" alt="github" width="22px" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" />][github]
 [<img align="left" alt="discord" width="22px" src="https://github.com/github/explore/blob/main/topics/discord/discord.png" />][discord]
 [<img align="left" alt="VS Code" width="22px" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561277508424-Source%20Tree.png" />][sourcetree]
 <br />
