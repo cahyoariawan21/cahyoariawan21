@@ -25,6 +25,7 @@ Skills: VUE JS / GO / Figma
 
 ### Languange and tools:
 [<img align="left" alt="go" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />][go]
+[<img align="left" alt="Python" width="22px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />][python]
 [<img align="left" alt="vue" width="22px" src="https://github.com/github/explore/blob/main/topics/vue/vue.png" />][vue]
 [<img align="left" alt="html" width="22px" src="https://github.com/github/explore/blob/main/topics/html/html.png" />][html]
 [<img align="left" alt="css" width="22px" src="https://github.com/github/explore/blob/main/topics/css/css.png" />][css]
@@ -35,15 +36,13 @@ Skills: VUE JS / GO / Figma
 [<img align="left" alt="cli" width="22px" src="https://cdn-icons-png.flaticon.com/128/1485/1485243.png" />][cli]
 [<img align="left" alt="github" width="22px" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" />][github]
 [<img align="left" alt="sourcetree" width="22px" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561277508424-Source%20Tree.png" />][sourcetree]
-<br />
-
-### Latest Languange and Tools 
-[<img align="left" alt="Python" width="22px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />][python]
 [<img align="left" alt="Jupyter-Notebook" width="22px" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png" />][jupyter-notebook]
 [<img align="left" alt="Numpy" width="22px" src="https://github.com/github/explore/blob/main/topics/numpy/numpy.png" />][numpy]
 [<img align="left" alt="Postgresql" width="22px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" />][postgresql]
+<br />
 
-<!-- [<img align="left" alt="VS Code" width="22px" src="" />][website] -->
+
+<!-- [<img align="left" alt="name" width="22px" src="" />][website] -->
 
 <br />
 
