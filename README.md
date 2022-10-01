@@ -38,10 +38,10 @@ Skills: VUE JS / GO / Figma
 <br />
 
 ### Latest Languange and Tools 
-[<img align="left" alt="Python" width="22px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />[Python]
-[<img align="left" alt="Jupyter-Notebook" width="22px" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png" />[Jupyter-Notebook]
-[<img align="left" alt="Numpy" width="22px" src="https://github.com/github/explore/blob/main/topics/numpy/numpy.png" />[Numpy]
-[<img align="left" alt="Postgresql" width="22px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" />[Postgresql]
+[<img align="left" alt="Python" width="22px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />][Python]
+[<img align="left" alt="Jupyter-Notebook" width="22px" src="https://github.com/github/explore/blob/main/topics/jupyter-notebook/jupyter-notebook.png" />][Jupyter-Notebook]
+[<img align="left" alt="Numpy" width="22px" src="https://github.com/github/explore/blob/main/topics/numpy/numpy.png" />][Numpy]
+[<img align="left" alt="Postgresql" width="22px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" />][Postgresql]
 
 <!-- [<img align="left" alt="VS Code" width="22px" src="" />][website] -->
 
