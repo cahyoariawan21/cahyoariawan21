@@ -15,7 +15,7 @@ Skills: VUE JS / GO / Figma
 - 🎯  Fun fact: I love to playing games and do something interesting. 
 
 ### Connect with me:
-[<img align="left" alt="irfancahyo.com" width="22px" src="https://github.com/iconic/open-iconic/blob/master/svg/globe.svg" />][website]
+[<img align="left" alt="irfancahyo.com" width="22px" src="https://cdn-icons-png.flaticon.com/128/3059/3059997.png" />][website]
 [<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="instagram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
