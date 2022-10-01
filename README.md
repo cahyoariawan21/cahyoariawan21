@@ -49,12 +49,12 @@ Skills: VUE JS / GO / Figma
 
 ---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=irfancahyo)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cahyoariawan21)  
 
 ---
 
-<img align="left" alt="irfancahyo github stats" src="https://github-readme-stats.vercel.app/api?username=irfancahyo&show_icons=true&theme=dracula" />
-<img align="left" alt="irfancahyo github language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancahyo&langs_count=8&show_icons=true&theme=dracula" />
+<img align="left" alt="irfancahyo github stats" src="https://github-readme-stats.vercel.app/api?username=cahyoariawan21&show_icons=true&theme=dracula" />
+<img align="left" alt="irfancahyo github language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahyoariawan21&langs_count=8&show_icons=true&theme=dracula" />
 
 <br />
 <br />
