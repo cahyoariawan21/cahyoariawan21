@@ -16,18 +16,18 @@ Skills: VUE JS / GO / Figma
 
 ### Connect with me:
 [<img align="left" alt="irfancahyo.com" width="22px" src="https://cdn-icons-png.flaticon.com/128/3059/3059997.png" />][website]
-[<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="instagram" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>][instagram]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="youtube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
+[<img align="left" alt="instagram" width="22px"  src="https://cdn-icons-png.flaticon.com/128/174/174855.png"/>][instagram]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" />][linkedin]
 
 <br />
 
 ### Languange and tools:
 [<img align="left" alt="vscode" width="22px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="vue" width="22px" src="https://github.com/github/explore/blob/main/topics/vue/vue.png" />][vue]
-[<img align="left" alt="go" width="22px" src="https://github.com/github/explore/blob/main/topics/go/go.png" />][go]
+[<img align="left" alt="go" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />][go]
 [<img align="left" alt="babel" width="22px" src="https://github.com/github/explore/blob/main/topics/babel/babel.png" />][babel]
-[<img align="left" alt="cli" width="22px" src="https://github.com/github/explore/blob/main/topics/cli/cli.png" />][cli]
+[<img align="left" alt="cli" width="22px" src="https://cdn-icons-png.flaticon.com/128/1485/1485243.png" />][cli]
 [<img align="left" alt="html" width="22px" src="https://github.com/github/explore/blob/main/topics/html/html.png" />][html]
 [<img align="left" alt="css" width="22px" src="https://github.com/github/explore/blob/main/topics/css/css.png" />][css]
 [<img align="left" alt="js" width="22px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />][js]
