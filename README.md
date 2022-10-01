@@ -16,9 +16,9 @@ Skills: VUE JS / GO / Figma
 
 ### Connect with me:
 [<img align="left" alt="irfancahyo.com" width="22px" src="https://cdn-icons-png.flaticon.com/128/3059/3059997.png" />][website]
-[<img align="left" alt="youtube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
-[<img align="left" alt="instagram" width="22px"  src="https://cdn-icons-png.flaticon.com/128/174/174855.png"/>][instagram]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" />][linkedin]
+[<img align="left" alt="youtube" width="22px" src="https://cdn-icons-png.flaticon.com/128/187/187209.pngg" />][youtube]
+[<img align="left" alt="instagram" width="22px"  src="https://cdn-icons-png.flaticon.com/128/3670/3670125.png"/>][instagram]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/128/2626/2626273.png" />][linkedin]
 [<img align="left" alt="discord" width="22px" src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" />][discord]
 
 <br />
