@@ -12,8 +12,7 @@ Skills: VUE JS / GO / Figma
 - 🏫  I'm currently studies as a software engineering.
 - 🔭  I’m currently working on TAN Digital as Internship Data Analyst
 - 🧩  I'm currently learning everything. 😅
-- 🎯  2022 Goal: Making progress and Contribute more to Open Source codes.
-- ⚡  Fun fact: I love to playing games and do something interesting. 
+- 🎯  Fun fact: I love to playing games and do something interesting. 
 
 ### Connect with me:
 [<img align="left" alt="irfancahyo.com" width="22px" src="https://github.com/iconic/open-iconic/blob/master/svg/globe.svg" />][website]
