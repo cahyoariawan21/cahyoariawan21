@@ -4,9 +4,8 @@
 <!-- ![](https://i.ibb.co/Swrnt2R/Header-Github.png) -->
 
 
-Skills: VUE JS / GO / Figma
-
-![Profile views](https://gpvc.arturio.dev/cahyoariawan21)  
+Skills: JS / GO / Figma / Python
+Framework: Frappe / Vue / Go Fiber / Go Echo / Flask
 
 ## I'm a student of Indonesian University of Education.
 - 🏫  I'm currently studies as a software engineering.
