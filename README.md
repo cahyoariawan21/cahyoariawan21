@@ -5,6 +5,7 @@
 
 
 Skills: JS / GO / Figma / Python
+
 Framework: Frappe / Vue / Go Fiber / Go Echo / Flask
 
 ## I'm a student of Indonesian University of Education.
