@@ -10,8 +10,8 @@ Framework: Frappe / Vue / Go Fiber / Go Echo / Flask
 
 ## I'm a student of Indonesian University of Education.
 - 🏫  I'm currently studies as a software engineering.
-- 🔭  I’m currently working on TAN Digital as Internship Data Analyst
-- 🧩  I'm currently learning everything. 😅
+- 🔭  I’m currently working on TAN Digital as Back-end Engineer
+- 🧩  I'm currently Still learning everything. 😅
 - 🎯  Fun fact: I love to playing games and do something interesting. 
 
 ### Connect with me:
