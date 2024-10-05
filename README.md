@@ -44,29 +44,30 @@ Framework: Frappe / Vue / Go Fiber / Go Echo / Flask
 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cahyoariawan21/cahyoariawan21/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=cahyoariawan21&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
 
-<!-- [<img align="left" alt="name" width="22px" src="" />][website] -->
+<br/>
 
-<br />
+<div align=center>
+  <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=cahyoariawan21&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
 
----
+<br/>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cahyoariawan21)  
+<div align=center>
+   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cahyoariawan21&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
----
-
-<img align="left" alt="irfancahyo github stats" src="https://github-readme-stats.vercel.app/api?username=cahyoariawan21&show_icons=true&theme=dracula" />
-<img align="left" alt="irfancahyo github language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahyoariawan21&langs_count=8&show_icons=true&theme=dracula" />
-
-<br />
-<br />
+<br/>
 
 [website]: https://irfancahyo.com/
 [youtube]: https://www.youtube.com/channel/UCUuSTYLONWcytwbUfNhBjeg
