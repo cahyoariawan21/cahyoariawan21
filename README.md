@@ -10,7 +10,7 @@ Skills: JS / GO / Figma / Python
 Framework: Frappe / Vue / Go Fiber / Go Echo / Flask
 
 ## I'm a fresh graduate Software Engineer from the Indonesian University of Education.
-- 🏫  I'm currently studies as a software engineering.
+- 🏫  I'm currently finish my studies as a software engineering.
 - 🔭  I’m currently working on TAN Digital as Back-end Engineer
 - 🧩  I'm currently Still learning everything. 😅
 - 🎯  Fun fact: I love to playing games and do something interesting. 
